@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dPrimaryC">#1B4F72</color>
+    <color name="lPrimaryC">#EBF5FB</color>
+    <color name="primaryC">#3498DB</color>
+
+    <color name="dSecondaryC">#154360</color>
+    <color name="lSecondaryC">#EAF2F8</color>
+    <color name="secondaryC">#7FB3D5</color>
+
+    <color name="transparent">#FAFAFA</color>
+
+</resources>
